@@ -1,0 +1,12 @@
+<svg 
+style="background-color: #000;"
+id="background" 
+xmlns="http://www.w3.org/2000/svg" 
+xmlns:xlink="http://www.w3.org/1999/xlink" 
+viewBox="0 0 300 300" 
+shape-rendering="geometricPrecision" 
+text-rendering="geometricPrecision">
+<polygon style="isolation:isolate" points="0,-99.845338 94.95856,-30.853906 58.687618,80.776577 -58.687618,80.776577 -94.95856,-30.853906 0,-99.845338" transform="matrix(-.842587 0.538561-.538561-.842587 176.886384 57.960154)" fill="#ffc637" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon style="isolation:isolate" points="0,-93.820149 89.228264,-28.992021 55.1461,75.902095 -55.1461,75.902095 -89.228264,-28.992021 0,-93.820149" transform="matrix(-.478276 0.87821-.87821-.478276 242.716984 66.142823)" fill="#ffc637" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon style="isolation:isolate" points="0,-105.219927 100.070096,-32.514746 61.846721,85.124707 -61.846721,85.124707 -100.070096,-32.514746 0,-105.219927" transform="matrix(-.651178-.758925 0.758925-.651178 229.611504 161.217715)" fill="#ffc637" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
