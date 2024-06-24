@@ -5,6 +5,30 @@
     width: 100vw;
     position: relative;
 }
+.nav-buttons i:hover{
+    font-size: 2rem;
+    transition: .5s ease all;  
+}
+.nav-links {
+    margin-right: 1rem;
+    button{
+        width: 5rem;
+    }
+    .nav-link{
+        width: 5rem;
+        text-align: center;
+
+    }
+    .nav-link:hover{
+        transform: translateY(-8px);
+        transition: .5s ease all;
+    }
+
+    i:hover{
+        font-size: 2rem;
+        transition: .5s ease all;
+    }
+}
 
 @media screen and (max-width: 768px) {
     .logo--title{
@@ -15,7 +39,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        
+
         .menu--button{
             display: block;
         }

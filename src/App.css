@@ -6,6 +6,30 @@
   position: relative;
 }
 
+.nav-buttons i:hover {
+  font-size: 2rem;
+  transition: 0.5s ease all;
+}
+
+.nav-links {
+  margin-right: 1rem;
+}
+.nav-links button {
+  width: 5rem;
+}
+.nav-links .nav-link {
+  width: 5rem;
+  text-align: center;
+}
+.nav-links .nav-link:hover {
+  transform: translateY(-8px);
+  transition: 0.5s ease all;
+}
+.nav-links i:hover {
+  font-size: 2rem;
+  transition: 0.5s ease all;
+}
+
 @media screen and (max-width: 768px) {
   .logo--title {
     display: none;
